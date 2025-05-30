@@ -24,27 +24,22 @@ Me gusta mucho el area de Desarrollo de Software me gusta aprender mas en las ar
 <img src="https://skillicons.dev/icons?i=js,python,java,dart">
 
 ### Frameworks
-<img src="https://skillicons.dev/icons?i=django,flask,vue,react,flutter
-" />
+<img src="https://skillicons.dev/icons?i=django,flask,vue,react,flutter" />
 
 ### Desarrollo Web
 
-<img src = "https://skillicons.dev/icons?i=html,css
-" />
+<img src = "https://skillicons.dev/icons?i=html,css" />
 
 ### IDES
-<img src="https://skillicons.dev/icons?i=vscode
-" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 ### Bases de Datos
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb
-" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb" />
 
 ### Herramientas de Colaboracion
 
-<img src="https://skillicons.dev/icons?i=git,github
-" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 
 ---
